@@ -1,6 +1,6 @@
 console.log("Hello World")
 
-const choices = [rock, paper, scissors]
+const choices = ["rock", "paper", "scissors"];
 
 
 function game() {
